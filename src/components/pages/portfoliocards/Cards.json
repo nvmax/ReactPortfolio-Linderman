@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "cardname": "Weather API",
+        "image": "../images/weatherapi.png",
+        "site": "https://nvmax.github.io/weatherapi-linderman/",
+        "github": "https://github.com/nvmax/weatherapi-linderman"
+    },
+    {
+        "id": "2",
+        "cardname": "Unplayable",
+        "image": "../images/project2.jpg",
+        "site": "https://unplayable.herokuapp.com/",
+        "github": "https://github.com/nvmax/Project2-Threat-Level-Midnight"
+    },
+    {
+        "id": "3",
+        "cardname": "Brewery Finder",
+        "image": "../images/breweryfinder.png",
+        "site": "https://nvmax.github.io/Group-14-brewery/",
+        "github": "https://github.com/nvmax/Group-14-brewery"
+    },
+    {
+        "id": "4",
+        "cardname": "Horiseon Refactor",
+        "image": "../images/horizeonrefactor.png",
+        "site": "https://nvmax.github.io/Horizeon-Refactorstudent/",
+        "github": "https://github.com/nvmax/Horizeon-Refactorstudent"
+    },
+    {
+        "id": "5",
+        "cardname": "Express Note Taker",
+        "image": "../images/notes.gif",
+        "site": "https://github.com/nvmax/expressDB-Linderman",
+        "github": "https://github.com/nvmax/expressDB-Linderman"
+    },
+    {
+        "id": "9",
+        "cardname": "Password Generator",
+        "image": "../images/passwordgenerator.png",
+        "site": "https://nvmax.github.io/password-generator/",
+        "github": "https://github.com/nvmax/JSPasswordGenerator-Linderman"
+    },
+    {
+        "id": "10",
+        "cardname": "Work Day Scheduler",
+        "image": "../images/workdayscheduler.png",
+        "site": "https://nvmax.github.io/work-day-scheduler/",
+        "github": "https://github.com/nvmax/timeCalandar-Linderman"
+    }
+   
+   
+]

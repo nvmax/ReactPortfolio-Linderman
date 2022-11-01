@@ -8,10 +8,10 @@ import Header from './pages/Header';
 import Footer from './pages/Footer';
 
 
+
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('Home');
 
-  // TODO: Add a comment describing the functionality of this method
   const renderPage = () => {
     if (currentPage === 'Home') {
       return <Home />;
@@ -29,9 +29,9 @@ export default function PortfolioContainer() {
 
   return (
     <div>
+      
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       <Header/>
-      
       <Footer/>
       {renderPage()}
       

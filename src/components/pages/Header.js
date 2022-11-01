@@ -8,7 +8,7 @@ import banner_pic from "../images/banner.jpg";
 function Header() {
     return (
         <header className="banner">
-            <img className='banner_pic' src={banner_pic} alt="Jerrod Linderman" />
+            <img className='banner_pic' src={banner_pic} alt="Banner" />
         </header>
     );
 }

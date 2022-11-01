@@ -1,0 +1,90 @@
+/* center H1 */
+h1 {
+  text-align: center;
+}
+
+
+
+
+/* set footer at bottom of page */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f9fa;
+  color: black;
+  text-align: center;
+}
+
+body {
+  background-color: #000000 !important;
+  background-size: cover;
+  height: 100vh;
+}
+
+/* banner_pic full screen width */
+.banner_pic {
+  width: 100%;
+}
+
+/* center classname="hero_pic */
+.hero_pic {
+  margin-Left: 50px;
+  margin-top : 50px;
+  width: 25%;
+  /*  clip path 20 sided polygon  */
+  clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+  
+}
+
+/* p tag white */
+p {
+  color: white;
+  /* flex with page */
+  flex: wrap;
+  margin-left : 50px;
+}
+
+.Wrapper {
+  margin:2.5%;
+    padding: 1%;
+    float:left;
+    border: thin solid lightblue;
+    width: 350px;
+    height: 250px;
+}
+/* center mainportfolio items */
+.mainportfolio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.portfolioImg{
+  width: 100%;
+  height: 80%;
+  object-fit: contain;
+  object-position: center;
+  
+ 
+}
+.Port-index {
+  padding-left:2%;
+  color : white;
+  font-size: 3.5em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  text-align: center;
+}
+
+/* h4 color white */
+h4 {
+  color: lightblue;
+}
+
+.containerport{
+  justify-content: center;
+  
+}
