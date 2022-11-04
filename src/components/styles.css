@@ -18,14 +18,36 @@ h1 {
 
 #root > nav{
   grid-area:nav;
+  
 }
 
 #root > nav ~ div{
   grid-area:content;
   overflow-x:hidden;
   overflow-y:auto;
+  
 }
 
+/* nav bar solid black opague */
+.nav {
+  /* nav size auto to fit screen */
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 191, 0);
+  font-size: 1.0em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  text-align: center;
+  border: none;
+}
+
+.nav-tabs {
+  --bs-nav-tabs-border-color: none!important;
+
+}
+
+.nav-tabs .nav-link {
+  border: none!important;
+}
 /* set footer at bottom of page */
 footer {
   grid-area: footer;
@@ -67,6 +89,7 @@ body {
   margin-right:50px;
 }
 .lead{
+  text-indent: 50px;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -74,6 +97,7 @@ body {
   margin-left: 50px;
   font-family: 'Roboto', sans-serif;
   color: white;
+  flex-wrap: wrap;
 }
 
 
@@ -156,25 +180,6 @@ h4 {
  height: 100vh!important;
 }
 
-/* nav bar solid black opague */
-.nav {
-  background-color: rgb(0, 0, 0);
-  color: rgb(255, 191, 0);
-  font-size: 1.5em;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 100;
-  text-align: center;
-  border: none;
-}
-
-.nav-tabs {
-  --bs-nav-tabs-border-color: none!important;
-
-}
-
-.nav-tabs .nav-link {
-  border: none!important;
-}
 
 /* a orange */
 a {

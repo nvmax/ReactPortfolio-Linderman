@@ -1,14 +1,29 @@
 [
     {
         "id": "1",
-        "Detail": "Reduced customer down time from 8 to 2 days through effectively deploying UPS drop locations and drop shipments to various locations central to HP remote Technicians."
-       },
-    {
-        "id": "2",
-        "Detail": "Achived same day order placing within logistics by interoducing presonally written software to automate incoming purchase request and place them into purchasing system."
+        "Date": "2022",
+        "Name": "University of Utah",
+        "city": "Salt Lake City, UT",
+        "state": "UT",
+        "class": "Bootcamp",
+        "degree": "Full Stack Web Development"
     },
     {
-        "id": "3",
-        "Detail": "Created HP Network EYE tool for Field Service Technicians to scan a clients network for on service devices and retrieve page counts and leve of supplies and schedule services accordingly."
+        "id": "1",
+        "Date": "2001",
+        "Name": "University of Utah",
+        "city": "Salt Lake City, UT",
+        "state": "UT",
+        "class": "Electrical Engineering",
+        "degree": "Bachelor of Electrical Engineering"
+    },
+    {
+        "id": "1",
+        "Date": "1997",
+        "Name": "Granger High School",
+        "city": "West Valley City, UT",
+        "state": "UT",
+        "class": "General Education",
+        "degree": "High School Diploma"
     }
 ]

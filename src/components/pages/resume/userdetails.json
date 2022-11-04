@@ -1,14 +1,10 @@
 [
     {
         "id": "1",
-        "Detail": "Reduced customer down time from 8 to 2 days through effectively deploying UPS drop locations and drop shipments to various locations central to HP remote Technicians."
-       },
-    {
-        "id": "2",
-        "Detail": "Achived same day order placing within logistics by interoducing presonally written software to automate incoming purchase request and place them into purchasing system."
-    },
-    {
-        "id": "3",
-        "Detail": "Created HP Network EYE tool for Field Service Technicians to scan a clients network for on service devices and retrieve page counts and leve of supplies and schedule services accordingly."
-    }
+        "email": "JerrodLinderman@gmail.com",
+        "phone": "801-637-7403",
+        "address": "3919 Arthur Street NE",
+        "city": "Minneapolis",
+        "state": "Minnesota"
+       }
 ]
