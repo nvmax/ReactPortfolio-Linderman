@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "Company": "HP Inc. - Technical Support Specialist",
+        "Location": "Salt Lake City, UT",
+        "Date": "04/2016 - 01/2018",
+        "Details": [
+            "Confirmed appointments, communicated with clients and updated client records.",
+            "Resolved customer problems and complaints.",
+            "Answered questions and addressed, resolved or escalated issues to management personnel to satisfy customers.",
+            "Executed diagnostics, troubleshooting and evaluations on printers, and other hardware.",
+            "Maintained quality assurance and customer satisfaction objectives.",
+            "Interacted with vendors, contractors and professional services personnel to facilitate prompt repairs and service for customers."
+        ]
+
+       },
+    {
+        "id": "2",
+        "Company": "Printelligent Inc. - Senior Field Service Technician",
+        "Location": "Salt Lake City, UT",
+        "Date": "04/2009 - 04/2016",
+        "Details": [
+            "Scheduled service calls according to customer location and urgency of need.",
+            "Disassembled and reassembled complex machinery to repair or replace worn or malfunctioning components.",
+            "Tested equipment performance and demonstrated operation and servicing best practices to customers.",
+            "Recommened design changes, upgrades and replacements to improve systems performance.",
+            "Inspected equipment and processs to reduce maintenance-related downtime incidents and mitigate equipment failure.",
+            "Examined faulty equipment, interpreted reports and analyzed customer complaints to diagnose equipment malfunctions.",
+            "Mentored new hires, resulting in stronger staff development and increased productivity.",
+            "Monitored participant workflow and behaviors throughout training process.",
+            "Analyzed company training methods and made adjustments to rectify issues, increase efficiency and exceed training goals, resulting in decrease in call backs."
+        ]
+    },
+    {
+        "id": "3",
+        "Company": "Microsoft MSN Network - L3 Technical Support Specialist",
+        "Location": "Salt Lake City, UT",
+        "Date": "04/2004 - 08/2008",
+        "Details": [
+            "Provided technical support for Microsoft Network to customers via phone, email, and chat.",
+            "Troubleshooted and resolved issues with Microsoft MSN Software and connections to the internet.",
+            "Reported reoccurring issues to management and escalated issues to higher level support.",
+            "Provided Advaced Technical Support for Microsoft MSN Software and connections to end users that were escalated from the L2 Technical Support Team.",
+            "Trained new hires on the MSN Network and the MSN Network Support Process.",
+            "Anylized error reports from customers and provided solutions to resolve issues."
+        ]
+    }
+]

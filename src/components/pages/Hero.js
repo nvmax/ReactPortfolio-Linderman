@@ -9,9 +9,6 @@ function HeroImage() {
         <br/>
         <br/>
         <br/>
-        <p>
-            Im a website designer 
-        </p>
         </div>
     );
 }
