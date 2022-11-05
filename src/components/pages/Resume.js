@@ -9,8 +9,8 @@ import summary from './resume/summary.json';
 class Resume extends Component {
     render() {
         return (
-        <div className="resumecontainer">
-            <div className="resume">
+            <div className="resumecontainer">
+                <div className="resume">
                     <div className="row">
                         <div className="col-md-7">
                             <h2>Professional Summary</h2>
@@ -22,6 +22,7 @@ class Resume extends Component {
                                 );
                             })}
                             <hr />
+                            {/* accomplishments listed here */}
                             <h2>Accomplishments</h2>
                             {accomplishments.map((accomplishmentDetail, index) => {
                                 return (
@@ -131,6 +132,7 @@ class Resume extends Component {
                                         </div>
                                     );
                                 })}
+                                <a href={require("./resume/resume.pdf")} download="JerrodLinderman-Resume">Download Resume</a>
                             </div>
                         </div>
                     </div>

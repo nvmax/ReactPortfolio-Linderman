@@ -13,7 +13,7 @@ function Footer() {
             <a href="https://twitter.com/Max_Linderman" target="_blank" rel="noopener noreferrer">
                 <img className="socialicon" src={twittericon} alt="Twitter" />
             </a>
-            <a href="https://www.linkedin.com/in/jerrod-linderman-0b0b5a1b3/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/jerrod-linderman-0687a7185/" target="_blank" rel="noopener noreferrer">
                 <img className="socialicon" src={linkedinicon} alt="LinkedIn" />
             </a>
         </footer>

@@ -18,12 +18,16 @@ class Portfolio extends Component {
               <img className="portfolioImg" src={cardDetail.image} alt="Portfolio Card" />
               <div className="overlay">
                 <div className="text">
+                  <div className="leftbutton">
                   <a href={cardDetail.github} target="_blank" rel="noopener noreferrer">
                     <button className="btn btn-primary">Github</button>
                   </a>
-                  <a href={cardDetail.deployed} target="_blank" rel="noopener noreferrer">
+                  </div>
+                  <div className="rightbutton">
+                  <a href={cardDetail.site} target="_blank" rel="noopener noreferrer">
                     <button className="btn btn-primary">Deployed</button>
                   </a>
+                  </div>
                 </div>
               </div>
             </div>
