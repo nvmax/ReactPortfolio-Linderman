@@ -1,70 +1,73 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
+  <div align="center">
+  
+  ## Jerrod Linderman
 
-## Available Scripts
+  </div>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nvmax&style=flat-square&color=blue" alt=""/>
+  </div>
+  
+  
+  <h1 align="center">Badges</h1>
+  <div align="center">
+  <div align="center" style="display:block; width:300px; >
+  
+  [![Node.js](https://img.shields.io/badge/Node.js-blue.svg)](https://badges.greenkeeper.io/Node.js)[![jQuery](https://img.shields.io/badge/jQuery-orange.svg)](https://badges.greenkeeper.io/jQuery)[![NPM](https://img.shields.io/badge/NPM-red.svg)](https://badges.greenkeeper.io/NPM)[![Express.js](https://img.shields.io/badge/Express.js-yellow.svg)](https://badges.greenkeeper.io/Express.js)[![CSS3](https://img.shields.io/badge/CSS3-orange.svg)](https://badges.greenkeeper.io/CSS3)[![HTML5](https://img.shields.io/badge/HTML5-green.svg)](https://badges.greenkeeper.io/HTML5)[![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg)](https://badges.greenkeeper.io/JavaScript)[![Markdown](https://img.shields.io/badge/Markdown-green.svg)](https://badges.greenkeeper.io/Markdown)
 
-In the project directory, you can run:
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  
+  
+  </div>
+  </div>
+  
+  <h1 align="center">
+  
+  React Profile Jerrod Linderman</h1>
 
-### `npm start`
+  ![image](./public/images/reactprofile.png)
+  
+  
+  ## Table of Contents:
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#usage)
+  4. [license](#license)
+  5. [Github](#github)
+  6. [Email](#questions)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ## Description
+  Deployed React portfolio with About me, Portfolio list of applications, resume and a contact me
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+  ## Installation
+  ''npm install'' then ''npm start''
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+  ## Contribute
+  ![GitHub license](https://img.shields.io/badge/Made%20by-%40nvmax-blue)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  [Contributor Covenant](https://www.contributor-covenant.org/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  At this time owner is not accepting any contributions to this project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+  ## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  Published under the [MIT](license.txt) License.
+  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  Read More about the licence by clicking this Link: [MIT](https://opensource.org/licenses/MIT).
+ 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  ## GitHub
+  [nvmax](https://github.com/nvmax)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  ## Questions
+  If you have any questions, please contact me by clicking the email link below:
+  ### [nvmaxx@gmail.com](nvmaxx@gmail.com) 
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 

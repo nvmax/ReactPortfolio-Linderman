@@ -38,7 +38,7 @@ export default function PortfolioContainer() {
 
   return (
     <>
-      <ParticlesBg color="#e29a4e" num={150} type="cobweb" bg={true} />
+      <ParticlesBg color="#e29a4e" num={100} type="cobweb" bg={true} />
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       <div>
         <Header/>
