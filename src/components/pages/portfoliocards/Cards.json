@@ -47,6 +47,13 @@
         "image": "../images/workdayscheduler.png",
         "site": "https://nvmax.github.io/work-day-scheduler/",
         "github": "https://github.com/nvmax/timeCalandar-Linderman"
+    },
+    {
+        "id": "1",
+        "cardname": "Project 3 JoblessWatches",
+        "image": "../images/project3.jpg",
+        "site": "https://joblesswatches.herokuapp.com/",
+        "github": "https://github.com/nvmax/Joblesswannabies-project3"
     }
    
    
